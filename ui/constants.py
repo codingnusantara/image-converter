@@ -1,7 +1,7 @@
 from typing import List, Tuple
 
 APP_NAME    = "Image Converter"
-APP_VERSION = "2.0"
+APP_VERSION = "1.0"
 MIN_W, MIN_H = 840, 640
 DEF_W, DEF_H = 1000, 720
 
